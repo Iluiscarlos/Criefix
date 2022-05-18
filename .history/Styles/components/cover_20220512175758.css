@@ -1,15 +1,7 @@
 .cover{
     width: 214px;
     height: 290px;
-    background-image: linear-gradient(to top, rgb(0,0,0,.8) 0%, rgba(0,0,0,0.35) 60%);
-    position: relative;
-    flex-shrink: 0;
-    margin-right: 16px;
-}
-
-.cover--large{
-    width: 400px;
-    height: 240px;
+    background-image: linear-gradient(to top, rgb(0,0,0,.35) 0%, rgba(0,0,0,0.35) 40%);
 }
 
 .cover__image{
@@ -26,8 +18,5 @@
     line-height: 30px;
     position: absolute;
     bottom: 0;
-    left: 0;
-    width: 100%;
-    padding: 8px 12px;
 
 }

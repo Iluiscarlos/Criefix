@@ -6,7 +6,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 40px;
 }
 
 .slider__title{
@@ -14,6 +13,7 @@
     font-size: 32px;
     line-height: 40px;
     letter-spacing: -0.5px;
+    margin-bottom: 40px;
 }
 
 .slider__more{
@@ -31,16 +31,4 @@
 .slider__more__icon{
     fill: var(--color-primary);
     margin-left: 8px;
-}
-
-.slider__track{
-    display: flex;
-    overflow: auto hidden;
-    margin: 0 -70px;
-    padding: 0 70px;
-}
-
-.slider__track::-webkit-scrollbar{
-    width: 0;
-    height: 0;
 }
