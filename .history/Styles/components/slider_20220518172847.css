@@ -47,7 +47,7 @@
 
 @media only screen and (max-width: 480px){
     .slider{
-        margin: 32px 24px;
+        margin: 32px 16px;
     }
 
     .slider__header{
@@ -64,8 +64,8 @@
     }
 
     .slider__track{
-        margin: 0 -24px;
-        padding: 0 24px;
+        margin: 0 -16px;
+        padding: 0 16px;
     }
 
 }

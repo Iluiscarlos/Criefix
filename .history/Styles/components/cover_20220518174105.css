@@ -39,7 +39,7 @@
 @media only screen and (max-width: 480px){
     .cover{
         width: 100px;
-        height: 135px;
+        height: 165px;
         margin-right: 12px;
     }
 
@@ -51,6 +51,5 @@
     .cover__title{
         font-size: 11px;
         line-height: 12px;
-        padding: 4px;
     }
 }

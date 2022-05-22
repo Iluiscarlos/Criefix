@@ -69,11 +69,9 @@
     .header__menu {
         order: 3;
         margin-top: 40px;
-        margin: 40px -16px 0 -16px;
-        padding: 0 16px;
         display: flex;
         overflow: auto hidden;
-        
+        margin: 40px -16px 0 -16px;
     }
 
     .header__menu::-webkit-scrollbar{
